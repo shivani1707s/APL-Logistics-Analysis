@@ -1,0 +1,47 @@
+# Virtual environment
+.lgvenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large dataset
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Trained models
+models/*.joblib
+models/*.pkl
+models/*.bin
+models/*.txt
+
+# Generated outputs
+outputs/*.csv
+outputs/*.json
+outputs/*.png
+outputs/*.jpg
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
