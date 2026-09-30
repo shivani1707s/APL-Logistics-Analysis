@@ -28,14 +28,12 @@ data/*.xls
 # Trained models
 models/*.joblib
 models/*.pkl
-models/*.bin
-models/*.txt
+models/*.pickle
 
 # Generated outputs
-outputs/*.csv
-outputs/*.json
-outputs/*.png
-outputs/*.jpg
+outputs/APL_Logistics_cleaned.csv
+outputs/APL_Logistics_ml_ready.csv
+
 
 # Streamlit
 .streamlit/

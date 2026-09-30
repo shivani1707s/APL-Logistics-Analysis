@@ -1,0 +1,37 @@
+Feature,Type
+Type,Categorical
+Days for shipment (scheduled),Numeric
+Benefit per order,Numeric
+Sales per customer,Numeric
+Category Id,Numeric
+Category Name,Categorical
+Customer City,Categorical
+Customer Country,Categorical
+Customer Segment,Categorical
+Customer State,Categorical
+Department Id,Numeric
+Department Name,Categorical
+Latitude,Numeric
+Longitude,Numeric
+Market,Categorical
+Order City,Categorical
+Order Country,Categorical
+Order Item Discount,Numeric
+Order Item Discount Rate,Numeric
+Order Item Product Price,Numeric
+Order Item Profit Ratio,Numeric
+Order Item Quantity,Numeric
+Sales,Numeric
+Order Item Total,Numeric
+Order Profit Per Order,Numeric
+Order Region,Categorical
+Order State,Categorical
+Product Name,Categorical
+Product Price,Numeric
+Shipping Mode,Categorical
+discount_amount_per_unit,Numeric
+sales_per_quantity,Numeric
+profit_per_quantity,Numeric
+price_discount_interaction,Numeric
+scheduled_days_bucket,Categorical
+geo_market_region,Categorical
